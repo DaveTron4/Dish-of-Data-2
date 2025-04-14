@@ -2,7 +2,7 @@
 
 Submitted by: **David Salas**
 
-This web app: **insert description**
+This web app: **a sleek and responsive recipe dashboard web app built with React.js, designed to help users explore and filter recipes through a clean, modern interface. Powered by the Spoonacular API, the app delivers detailed recipe information—complete with health filters, nutrition facts, and ingredients. Each recipe has its own dedicated URL thanks to dynamic routing via React Router, making it easy to share and revisit specific dishes.**
 
 Time spent: **5** hours spent in total
 
@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/NANDUZa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
