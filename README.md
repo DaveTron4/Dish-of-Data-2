@@ -49,7 +49,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. While working in this project I struggled getting the URL to be unique to each recipe item. Then I thought about using the demo website given for this project and check out the source code and see how it handles the unique URL's and implemented that for my project and that worked.
 
 ## License
 
